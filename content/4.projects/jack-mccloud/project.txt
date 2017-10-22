@@ -1,0 +1,9 @@
+page_title: @name / Jack McCloud
+
+page_description: Jack McCloud by @name
+
+title: Jack McCloud
+
+date: 2007
+
+content:

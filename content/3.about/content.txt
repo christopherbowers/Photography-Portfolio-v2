@@ -1,0 +1,15 @@
+page_title: @name / About
+
+page_description: About @name
+
+title: About @name
+
+content: 
+Christopher Bowers was born and raised on a cul-de-sac in suburban Central Massachusetts. His childhood home had two apple trees in the backyard and concord grape vines on the side yard. He attended a technical high school, studied digital media and designed the athletic team&#8217;s logo. In 2009&#8212;despite taking the long program&#8212;Christopher was kindly awarded a B.S. in photography from The New England Institute of Art.
+Christopher&#8217;s photography has graced the fine walls of galleries such as The Photographic Resource Center in Boston and The New England Institute of Art&#8217;s Gallery 303 in Brookline, Massachusetts. 
+Aside from making photographs, Christopher also teaches photography when he can, rides bikes, drinks loose leaf tea, is an early adopter of cutting edge technology, believes all cars should have a manual transmission and is terrified of losing his eyesight.
+Past lives have found Christopher toiling as a graphic designer, video editor, and web designer.
+Christopher recollects and remixes different versions of his story in front of a Mac in Massachusetts&#8217; capital city Boston, where the climate is ever-changing, bike lanes are in short supply and his family are within arm&#8217;s reach.
+Contact: hello@christopherbowers.net
+
+

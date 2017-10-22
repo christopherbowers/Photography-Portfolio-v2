@@ -1,0 +1,9 @@
+page_title: @name / Swings I&#8217;ve Known
+
+page_description: Swings I've Known by @name
+
+title: Swings I&#8217;ve Known
+
+date: 2008
+
+content:

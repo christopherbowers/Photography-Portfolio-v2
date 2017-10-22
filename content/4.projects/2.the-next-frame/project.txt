@@ -1,0 +1,9 @@
+page_title: @name / The Next Frame
+
+page_description: The Next Frame by @name
+
+title: The Next Frame
+
+date: 2007
+
+content: 

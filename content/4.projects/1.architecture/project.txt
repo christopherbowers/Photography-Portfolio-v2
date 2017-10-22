@@ -1,0 +1,9 @@
+page_title: @name / Architecture
+
+page_description: Architecture by @name
+
+title: Architecture
+
+date: 
+
+content: 

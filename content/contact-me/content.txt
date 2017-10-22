@@ -1,0 +1,7 @@
+page_title: @name / Contact
+
+page_description: Contact @name
+
+title: Contact
+
+content: c@christohperbowers.net

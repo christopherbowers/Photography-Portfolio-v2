@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Adaptive grid system based on the Golden Section</title>
+  
+<style type="text/css">
+/*<![CDATA[*/
+<!--
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
+	font-size: 76;
+	color: #333;
+	background-color: #f0f0f0;
+	text-align: center;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+/* Make sure the table cells show the right font */
+td { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; }
+
+/*-------------------------------------------------
+GLOBALS & GENERAL CASES
+-------------------------------------------------*/
+
+a {text-decoration: underline; padding: 1px; }
+a:link { color: #03c; }
+a:visited { color: #03c; }
+a:hover { color: #fff; background-color: #30c; text-decoration: none; }
+
+
+/*-------------------------------------------------
+TYPOGRAPHY
+-------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+        font-family: helvetica, arial, verdana, sans-serif;
+        font-weight: normal;
+}
+
+/* approx 21px*/
+h1 {
+        font-size: 2.1em;
+        margin-top: 2em; 
+}
+
+/* approx 16px*/
+h2 {
+        font-size: 1.6em;
+        margin-bottom: 1em; 
+}
+
+/* approx 14px*/
+h3 {
+        font-size: 1.4em;
+}
+
+/* approx 12px*/
+h4 {
+        font-size: 1.2em;
+}
+
+/* approx 11/14 */
+p {
+	font-size: 1.1em;
+	line-height: 1.4em;
+	padding: 0;
+	margin-bottom: 1em;
+}
+
+/* PAGE STRUCTURE 
+---------------------------------------------*/
+
+#container {
+	width: 90%;
+	margin:0 auto;
+	text-align: left;
+	min-width: 52em;
+	
+}
+
+#contentframe {
+	margin: 2em 0 0 0;
+	padding: 2em 0;
+	width: 100%;
+	text-align: left;
+	float: left;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}
+
+/* 2 column layout c1-c1-c2 */
+.c1-c2 #c2 {
+	float: right;
+	width: 38%;
+	padding: 0 0 0 1em;
+	margin: 0;
+}
+
+.c1-c2 #c1 {
+	float: left;
+	width: 62%;
+	padding: 0 0 0 1em;
+	margin: 0;
+}
+
+-->
+/*]]>*/
+</style>
+
+<!-- <script type="text/javascript"> 
+function checkBrowserWidth()
+{
+var theWidth = getBrowserWidth();
+
+if (theWidth > 1200)
+			{
+			document.getElementsByTagName("body").item(0).style.fontSize='100%';
+		}
+	else { 
+
+if (theWidth > 1000)
+			{
+			document.getElementsByTagName("body").item(0).style.fontSize='87%';
+		}
+	else { 
+	if (theWidth > 920)
+			{
+			document.getElementsByTagName("body").item(0).style.fontSize='81%';
+		}
+	else { 
+		if (theWidth > 840)
+			{
+			document.getElementsByTagName("body").item(0).style.fontSize='76%';
+			}
+		else { 
+			if (theWidth > 760)
+				{
+				document.getElementsByTagName("body").item(0).style.fontSize='69%';
+				}
+			else { 
+				document.getElementsByTagName("body").item(0).style.fontSize='62%';
+				}
+			}
+		}
+	}
+}
+}
+
+function getBrowserWidth()
+{
+	if (window.innerWidth)
+	{
+		return window.innerWidth;
+	}
+	else if (document.documentElement && document.documentElement.clientWidth != 0)
+	{
+		return document.documentElement.clientWidth;
+	}
+	else if (document.body)
+	{
+		return document.body.clientWidth;
+	}
+	
+	return 0;
+}
+
+
+
+</script> -->
+
+
+
+
+</head>
+
+<body class="c1-c2">
+
+  <div id="container">
+  
+    <div id="header">
+      <h1>The site is being updated</h1><!-- END #header -->
+
+    </div><!-- BEGIN content -->
+    
+    <div id="contentframe"></div><!-- END content -->
+    </div><!-- BEGIN #footer -->
+    
+  </div>
+<script type="text/javascript"> 
+checkBrowserWidth();
+
+window.onresize = checkBrowserWidth;
+</script>
+
+</body></html>

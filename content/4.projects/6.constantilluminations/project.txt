@@ -1,0 +1,9 @@
+page_title: @name / Constant Illuminations
+
+page_description: Constant Illuminations by @name
+
+title: Constant Illuminations
+
+date: 2008 
+
+content:

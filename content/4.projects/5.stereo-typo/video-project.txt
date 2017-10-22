@@ -1,0 +1,9 @@
+page_title: @name / Stere-O Typ-O
+
+page_description: Stere-O Typ-O by @name
+
+title: Stere-O Typ-O
+
+date: 2008
+
+content: 

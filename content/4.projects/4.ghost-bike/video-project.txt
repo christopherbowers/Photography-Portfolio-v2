@@ -1,0 +1,9 @@
+page_title: @name / Ghost Bike
+
+page_description: Ghost Bike by @name
+
+title: Ghost Bike
+
+date: 2008
+
+content: 

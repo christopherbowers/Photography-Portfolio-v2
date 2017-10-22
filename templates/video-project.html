@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@page_title</title>
+		<meta name="description" content="@page_description">
+		<link rel="stylesheet" href="../../docs/css/screen.css" type="text/css" media="screen">
+		<script type="text/javascript" src="http://use.typekit.com/ujv2gpu.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		
+		<script src="../../../mint/?js" type="text/javascript"></script>
+		
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="../">@name</a>: Lens Based Art
+			</h1>
+			<hr>
+			<div id="navigation" class="col three">
+				@Category_Lists
+				@Pages
+			</div>
+			<div id="content" class="col eight">
+				<p class="date col one">@date</p>
+				<div class="description col six">
+					<h2>@title</a></h2>
+					@content
+				</div>
+				<hr>
+				<p id="project-count" class="col one"></p>
+				
+				<div id="media">
+					@Video
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">Copyright &copy;  2005&#8211;@Year @name, All Rights/Wrongs Reserved.</p>
+		</div>
+	</body>
+</html>

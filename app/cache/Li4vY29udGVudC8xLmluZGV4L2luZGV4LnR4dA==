@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Christopher Bowers&#58; Lens Based Art</title>
+		<meta name="description" content="The photography and art of Christopher Bowers.">
+		<link rel="stylesheet" href="./docs/css/screen.css" type="text/css" media="screen">
+		
+		<script type="text/javascript" src="http://use.typekit.com/ujv2gpu.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		
+		<script src="../../../mint/?js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Christopher Bowers</a>: Lens Based Media
+			</h1>
+			<hr>
+			<div id="navigation" class="col three">
+				<ul id="projects">
+	<li><em>Projects</em></li>
+	
+	<li>
+		<a href="projects/mybrothersfamily1/">My Brother&#8217;s Family&#58; Part 1</a>
+	</li>
+	
+	<li>
+		<a href="projects/mybrothersfamily2/">My Brother&#8217;s Family&#58; Part 2</a>
+	</li>
+	
+	<li>
+		<a href="projects/stunts/">Stunts</a>
+	</li>
+	
+	<li>
+		<a href="projects/constantilluminations/">Constant Illuminations</a>
+	</li>
+	
+	<li>
+		<a href="projects/stereo-typo/">Stere&#45;O Typ&#45;O</a>
+	</li>
+	
+	<li>
+		<a href="projects/ghost-bike/">Ghost Bike</a>
+	</li>
+	
+	<li>
+		<a href="projects/benches/">Benches</a>
+	</li>
+	
+	<li>
+		<a href="projects/the-next-frame/">The Next Frame</a>
+	</li>
+	
+	<li>
+		<a href="projects/architecture/">Architecture</a>
+	</li>
+	
+</ul>
+				<ul id="pages">
+	
+	<li>
+		<a href="about/">About</a>
+	</li>
+	
+</ul>
+			</div>
+			<div id="content" class="home col eight">
+				<!-- <h1><a href="http://www.jpf.co.kr/?c=2/10/36">Jeunju Photo Festival April 29&ndash;May 10</a></h1> -->
+				<img src="./docs/rotate/rotate.php">
+			</div>
+			<hr>
+			<p id="footer" class="home col eight">Copyright &copy;  2005&#8211;2016 Christopher Bowers, All Rights/Wrongs Reserved.</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(1.2): 6ec8940ddd269102f4e63e243221fdff -->
